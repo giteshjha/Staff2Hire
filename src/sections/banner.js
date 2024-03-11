@@ -19,7 +19,7 @@ const Banner = () => {
           />
           <Box as="figure" sx={styles.illustration}>
             <Box sx={styles.buttonWrapper}>
-              <Link href={'https://bit.ly/3KYA5W2'} >
+              <Link href={'https://api.whatsapp.com/send?phone=918882903686&text=I%27m%20interested%20in%20Staff2Hire%20service'} >
                 <Button
                   onClick={() => {
                     logEvent("click", "Get Started CTA");

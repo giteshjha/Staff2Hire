@@ -27,7 +27,7 @@ export default function Header() {
                       </li>
                     ))}
                   </Box>
-                  <Link href={"https://bit.ly/3KYA5W2"}>
+                  <Link href={"https://api.whatsapp.com/send?phone=918882903686&text=I%27m%20interested%20in%20Staff2Hire%20service"}>
                     <Button
                       variant="text"
                       sx={styles.getStartedDesktop}
@@ -39,7 +39,7 @@ export default function Header() {
                     </Button>
                   </Link>
                 </Box>
-                <Link href={"https://bit.ly/3KYA5W2"}>
+                <Link href={"https://api.whatsapp.com/send?phone=918882903686&text=I%27m%20interested%20in%20Staff2Hire%20service"}>
                   <Button
                     variant="text"
                     sx={styles.getStartedMobile}
