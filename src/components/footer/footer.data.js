@@ -6,7 +6,7 @@ import dribbble from 'assets/images/icons/dribbble.png';
 export const menuItems = [
   {
     id: 2,
-    title: 'About Us',
+    title: 'Address',
     items: [
       // {
       //   path: '#!',
@@ -14,7 +14,11 @@ export const menuItems = [
       // },
       {
         path: '#!',
-        label: 'Customer Support',
+        label: 'House no. 261 , 1st floor.,\n' +
+            'Pocket E/20,\n' +
+            'Rohini sec 3,\n' +
+            '110085\n' +
+            'New delhi. ',
       },
       {
         path: '#!',
