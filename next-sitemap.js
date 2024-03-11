@@ -1,4 +1,4 @@
 module.exports = {
-  siteUrl: 'https://fuscohire.com',
+  siteUrl: 'https://staff2hire.com',
   generateRobotsTxt: true,
 };

@@ -93,7 +93,7 @@ const data = [
     avatar: avatar1,
     name: 'Siddhartha',
     designation: 'Sales executives',
-    quote:`"From the moment we engaged with Fuscohire, it was clear that we were in good hands. Their unique approach to finding top talent was refreshing and exceeded our expectations. We were thrilled with the candidate they helped us hire - their skills and personality were a perfect match for our team"`,
+    quote:`"From the moment we engaged with Staff2Hire, it was clear that we were in good hands. Their unique approach to finding top talent was refreshing and exceeded our expectations. We were thrilled with the candidate they helped us hire - their skills and personality were a perfect match for our team"`,
     socialLinks: [
       {
         name: 'twitter',
@@ -115,7 +115,7 @@ const data = [
     avatar: avatar3,
     name: 'Rohan saxena',
     designation: 'Software developer',
-    quote:`"I had the pleasure of working with Fuscohire to find the perfect mobile app developer for our team. From start to finish, the team  were professional, efficient, and genuinely cared about finding the right fit for our organization. Thanks to their thorough screening process and commitment to understanding our unique needs, we were able to hire an incredibly talented mobile app developer who has since become an invaluable member of our team."`,
+    quote:`"I had the pleasure of working with Staff2Hire to find the perfect mobile app developer for our team. From start to finish, the team  were professional, efficient, and genuinely cared about finding the right fit for our organization. Thanks to their thorough screening process and commitment to understanding our unique needs, we were able to hire an incredibly talented mobile app developer who has since become an invaluable member of our team."`,
     socialLinks: [
       {
         name: 'twitter',
@@ -133,7 +133,7 @@ const data = [
     avatar: avatar1,
     name: 'Shubham',
     designation: 'Math expert',
-    quote:`"We were in desperate need of a few math experts for our small startup, but we were struggling to find someone who was a good fit. That's when we turned to Fusco for help. They were able to quickly identify our needs and provide us with several highly qualified math tutors to choose from"`,
+    quote:`"We were in desperate need of a few math experts for our small startup, but we were struggling to find someone who was a good fit. That's when we turned to Staff2Hire for help. They were able to quickly identify our needs and provide us with several highly qualified math tutors to choose from"`,
     socialLinks: [
       {
         name: 'twitter',

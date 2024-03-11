@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://fuscohire.com
+Host: https://staff2hire.com
 
 # Sitemaps
-Sitemap: https://fuscohire.com/sitemap.xml
+Sitemap: https://staff2hire.com/sitemap.xml
